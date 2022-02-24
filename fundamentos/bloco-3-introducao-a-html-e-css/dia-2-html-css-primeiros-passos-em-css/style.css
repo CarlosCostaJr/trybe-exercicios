@@ -1,0 +1,16 @@
+body{
+   background-color: cornflowerblue;
+}
+
+h1{
+   font-size: 65px;
+   color: orange;
+}
+
+#lista-nao-ordenada{
+   background-color: blueviolet;
+}
+
+.paragrafo{
+   background-color: tomato;
+}
